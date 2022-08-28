@@ -245,6 +245,24 @@ public class BookHotelPage extends BaseClass {
 	public void bookHotl() {
 		elementClick(getBtnBookNow());
 	}
+	
+	
+	
+	
+	
+	
+	viuhcioqbycu9chbcyc unjyhxu9bj iub0
+	 ju9cno uo0c
+	  jxu9nPJXC 
+	   ux0inckc
+	   jn u9c
+	   jcn0ijCPK
+	   Icn-oMCMKC
+	    GUvcoimC /M.
+	     Nuxo XKxuio
+	      t7xfiujc cnm
+	       UYV8Bcl 
+	       
 
 }
 
